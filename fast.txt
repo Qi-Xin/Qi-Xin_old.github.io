@@ -1,8 +1,8 @@
 Terminal command: 
 
-ssh -N -f -L localhost:8888:localhost:8889 -p 80 xinqi@67.171.70.107
-
 ssh -N -f -L localhost:8888:localhost:8889 qix@exxact1.stat.cmu.edu
+
+ssh -N -f -L localhost:8888:localhost:8889 -p 80 xinqi@67.171.70.107
 
 (To kill occupied port 8888)
 
